@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: rob-run-map-view, radar, second-screen, game-map, looty-bay, overlay, gaming-tools, web-map, rob-run, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+rob-run radar second-screen game-map looty-bay overlay gaming-tools web-map rob-run-map-view looty-radar rob-run-radar windows portable prebuilt x64 free download
+related: rob-run, radar, second-screen, game-map, looty-bay, overlay, gaming-tools, web-map
